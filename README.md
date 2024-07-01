@@ -16,4 +16,4 @@
 
 ## 스크린샷
 
-![views](views_talk.png)
+![views](images/views_talk.png)
